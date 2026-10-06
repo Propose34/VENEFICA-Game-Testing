@@ -36,7 +36,9 @@ ENG_VER/
 
 ---
 
-## Visual Reference
-- [Test Plan](Test_Plan/TEST_PLAN.md)
-- [Bug Reports](Defect_Reports/BUG_REPORTS.md)
-- [Smoke Checklist](Checklists/M1_SMOKE_CHECKLIST.md)
+## Quick Links & References
+- [Master Test Plan](Test_Plan/TEST_PLAN.md)
+- [Defect Tracking Reports](Defect_Reports/BUG_REPORTS.md)
+- [Playtest Smoke Checklist](Checklists/M1_SMOKE_CHECKLIST.md)
+- [Excel QA Workbook](../Workbook/VENEFICA_QA_Workbook.xlsx)
+

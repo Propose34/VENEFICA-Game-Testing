@@ -40,3 +40,5 @@ THAI_VER/
 - [แผนการทดสอบหลัก (Master Test Plan)](Test_Plan/TEST_PLAN.md)
 - [รายงานบันทึกบัค (Bug Reports)](Defect_Reports/BUG_REPORTS.md)
 - [เช็กลิสต์ทดสอบ Smoke Test](Checklists/M1_SMOKE_CHECKLIST.md)
+- [ตารางบันทึกการทดสอบ Excel (QA Workbook)](../Workbook/VENEFICA_QA_Workbook.xlsx)
+

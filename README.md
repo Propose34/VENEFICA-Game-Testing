@@ -66,6 +66,9 @@ VENEFICA-Game-Testing/
 │   └── Checklists/
 │       └── M1_SMOKE_CHECKLIST.md        # 20-point playtest verification checklist
 │
+├── Workbook/                            # Master QA Spreadsheet (Excel)
+│   └── VENEFICA_QA_Workbook.xlsx        # Multi-tab test plan, suites, bug log & checklist
+│
 └── THAI_VER/                            # Thai QA Documentation (ฉบับภาษาไทย)
     ├── README.md                        # หน้าแรกและสารบัญฉบับภาษาไทย
     ├── Test_Plan/
@@ -83,6 +86,17 @@ VENEFICA-Game-Testing/
     └── Checklists/
         └── M1_SMOKE_CHECKLIST.md        # เช็กลิสต์ทดสอบความพร้อมเกมเพลย์ 20 ข้อ
 ```
+
+---
+
+## 📊 Master QA Workbook (Excel)
+A structured spreadsheet companion is available for project management and test tracking:
+- 📁 **[Workbook/VENEFICA_QA_Workbook.xlsx](Workbook/VENEFICA_QA_Workbook.xlsx)**
+  - Tab 1: `Overview & Test Plan` (Scope, test metadata, subsystem pass/fail metrics)
+  - Tab 2: `Test Suites (ENG)` (All 20 test cases with preconditions, steps, expected results)
+  - Tab 3: `Test Suites (THAI)` (ทุกชุดการทดสอบฉบับภาษาไทย 20 ข้อ)
+  - Tab 4: `Defect Log` (DEF-01 to DEF-04 resolved bugs + LIM-01 to LIM-02 limitations)
+  - Tab 5: `Smoke Checklist` (20-point fast verification checklist)
 
 ---
 
