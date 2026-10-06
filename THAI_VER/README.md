@@ -1,6 +1,6 @@
 # VENEFICA — เอกสารการทดสอบระบบและคุณภาพเกมเพลย์ (QA Documentation)
 
-ยินดีต้อนรับสู่คลังเอกสารการทดสอบคุณภาพเกมเพลย์ (Quality Assurance) สำหรับเกม **VENEFICA** เกมแนวผจญภัยแม่มดสไตล์ Cozy Gothic ที่พัฒนาด้วย Unity Universal Render Pipeline (URP)
+เอกสารการทดสอบระบบและคุณภาพเกมเพลย์ (Quality Assurance) สำหรับโปรเจกต์ **VENEFICA** (Milestone M1 Prototype) ครอบคลุมแผนการทดสอบ (Test Plan), ชุดการทดสอบรายระบบ (Test Suites), บันทึกรายงานบัค (Bug Reports), เช็กลิสต์ทดสอบความพร้อม (Smoke Checklist) และไฟล์ตารางสรุปผล Excel
 
 ![ภาพรวมเกมเพลย์](../Media/Prototype_Overview.png)
 

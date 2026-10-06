@@ -1,6 +1,6 @@
 # VENEFICA — Quality Assurance & Playtest Documentation
 
-Welcome to the Quality Assurance testing documentation repository for **VENEFICA**, a cozy gothic witchcraft adventure prototype built with Unity Universal Render Pipeline (URP).
+Quality Assurance (QA) and playtest documentation for **VENEFICA** (Milestone M1 Prototype), covering master test plan, modular test suites, defect tracking reports, smoke checklists, and an Excel master workbook.
 
 ![Venefica Overview](../Media/Prototype_Overview.png)
 

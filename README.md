@@ -6,9 +6,7 @@
 [![Test Status](https://img.shields.io/badge/Smoke_Tests-100%25_Passed-brightgreen.svg)]()
 [![Documentation](https://img.shields.io/badge/Documentation-Bilingual_(ENG/TH)-orange.svg)]()
 
-Welcome to the dedicated Quality Assurance & Game Testing repository for **VENEFICA**, an atmospheric cozy gothic witchcraft adventure prototype.
-
-This repository contains full test documentation, functional test suites, bug tracking logs, and playtest checklists in both **English** and **Thai**.
+Quality Assurance (QA) and game testing documentation for the **VENEFICA** prototype (Milestone M1). Contains bilingual test plans, modular test suites, defect tracking reports, playtest smoke checklists, and an Excel master workbook.
 
 ---
 
