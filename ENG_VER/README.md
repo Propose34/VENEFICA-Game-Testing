@@ -4,6 +4,11 @@ Quality Assurance (QA) and playtest documentation for **VENEFICA** (Milestone M1
 
 ![Venefica Overview](../Media/Prototype_Overview.png)
 
+> [!NOTE]
+> **Prototype Stage Notice:**
+> The current in-engine build represents the **Milestone M1 Graybox / Blockout Prototype**. Characters and environment geometry currently utilize placeholder prototype models to validate movement mechanics, camera collision, interaction triggers, and game logic early in the development lifecycle. Final 3D visual assets matching the concept art will be integrated in subsequent milestones.
+
+
 ---
 
 ## Repository Structure

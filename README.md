@@ -24,6 +24,12 @@ Quality Assurance (QA) and game testing documentation for the **VENEFICA** proto
 ### Key Gameplay & Prototype Environment
 The prototype slice features an interconnected hub including the Witch's Alchemical Shop, customer service counter, back garden beds, marketplace stalls, and an ancient stone archway leading into the deep forest grove.
 
+> [!NOTE]
+> **Prototype Stage Notice / หมายเหตุเกี่ยวกับสถานะงานต้นแบบ:**
+> - **EN:** The current in-engine build represents the **Milestone M1 Graybox / Blockout Prototype**. Characters and environment geometry currently utilize placeholder prototype models to validate movement, camera physics, interaction triggers, and game logic early in development. Final high-fidelity art assets matching the **Key Visual Concept** and **Character Design** will be integrated in subsequent milestones.
+> - **TH:** ตัวเกมเวอร์ชันปัจจุบันอยู่ในช่วง **ต้นแบบระยะแรก (M1 Graybox / Blockout Prototype)** โมเดลตัวละครและฉากในเกมยังคงเป็นบล็อกต้นแบบชั่วคราว เพื่อเน้นทดสอบระบบกลไกเกมเพลย์หลัก (Core Loop), การควบคุมตัวละคร, มุมกล้อง และตรรกะของระบบให้สมบูรณ์ก่อน โดยการพัฒนาโมเดล 3D แบบเต็มรูปแบบตาม **Key Visual Concept** และ **Character Design** จะถูกนำมาใส่ในขั้นตอนถัดไป
+
+
 | In-Game Overview Capture | In-Game Third-Person Perspective |
 |:---:|:---:|
 | ![Overview](Media/Prototype_Overview.png) | ![Player View](Media/Prototype_PlayerView.png) |
